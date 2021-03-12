@@ -4,8 +4,8 @@ function main() {
   var myFirstString;
   var mySecondString;
 
-  myFirstString = 'I think therefore I "am" -- sentient.';
-  mySecondString = 'No, you only "think", so you aren\'t.';
+  myFirstString = "I think therefore I \"am\" -- sentient.";
+  mySecondString = "No, you only \"think\", so you aren't.";
 
   // Only change code above this line
 
