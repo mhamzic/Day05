@@ -1,5 +1,6 @@
 function main() {
   // Only change code below this line
+
   var wordBlanks;
   var myNoun;
   var myVerb;
@@ -11,7 +12,7 @@ function main() {
   myAdjective = "big";
   myAdverb = "quickly";
 
-  wordBlanks = myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb;
+  wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
 
   // Only change code above this line
 
